@@ -1,0 +1,2 @@
+# shadreck
+school management system
